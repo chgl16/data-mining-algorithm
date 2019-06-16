@@ -31,9 +31,13 @@ e, f
 
 #### 2. [算法实现](关联分析（Apriori）/correlation_analysis.py)
 使用经典的Apriori算法，依次扫描交易记录集，计算出 *k-候选集Ck* 然后去除**支持度sup**小的项集获得 *k-频繁集Lk*， 只计算到 *3-频繁集* ，最后计算管理规则可信度即可。
-> 第k个候选集只会从k-1频繁集中的各项目组合连接，然后扫描记录集，以获取Ck中各项集的支持度。    
+> 第k个候选集只会从k-1频繁集中的各项目组合连接，然后扫描记录集，以获取Ck中各项集的支持度。       
 
-![输出结果](https://i.loli.net/2019/06/16/5d05ad0e8f2e762317.png)
+算法输出
+<center>
+<img alt="算法输出" src="https://i.loli.net/2019/06/16/5d05ad0e8f2e762317.png" width="80%" /> 
+</center>
+
 
 <hr>
 
@@ -74,9 +78,14 @@ with open("tree.dot", 'w') as f:
     f = tree.export_graphviz(clf, out_file=f)
 ```
 算法输出  
-![算法输出](https://i.loli.net/2019/06/16/5d05b41f3cca371767.png)  
-决策树
-![决策树](https://i.loli.net/2019/06/16/5d05b41f6850332395.png)
+<center>
+<img alt="算法输出" src="https://i.loli.net/2019/06/16/5d05b41f3cca371767.png" width="80%" /> 
+</center>
+决策树  
+<center>
+<img alt="决策树" src="https://i.loli.net/2019/06/16/5d05b41f6850332395.png" width="80%" />
+</center>
 
+<hr>
 
 ## 数据聚类K-means算法
