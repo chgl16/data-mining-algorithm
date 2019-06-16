@@ -1,0 +1,270 @@
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f 
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f 
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f 
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f 
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f 
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f 
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f 
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f 
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f 
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f
+a, d, e,f
+a, d, e
+c, e
+e, f
+a, c, e
+a, f
+b, e, f
+a, f
+a, d, e, f
+a, e, f 
